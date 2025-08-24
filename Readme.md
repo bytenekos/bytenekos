@@ -5,9 +5,7 @@
 ### I'm ByteNeko! You can call me Byte or Neko.
 #### Currently I'm learning Swift and SwiftUI
 
-Work on the [Elaina](https://github.com/bytenekos/elaina) repo has been put on hold for now as I've gotten burned out from working on it.
-I do plan on returning to it some day in the future though<br>
-If you want to send in PRs then feel free!
+I have a [site!](https://byteneko.dev)
 
 ---
 
